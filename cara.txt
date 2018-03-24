@@ -1,0 +1,4 @@
+-pkg install python2
+-git clone linknya
+-cd AVARspam
+-python2 AVARspam.py
